@@ -4,7 +4,6 @@ import com.mb.bootstrap.actors.Supervisor
 
 import com.typesafe.config.ConfigFactory
 import akka.actor._
-import scala.io.StdIn
 
 object MainServer extends App {
 
