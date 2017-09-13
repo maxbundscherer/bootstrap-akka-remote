@@ -9,8 +9,8 @@ Author: Maximilian Bundscherer (https://bundscherer-online.de)
 
 ## Overview / Features
 - Server `MainServer` and example client `ExampleClient` included
-- Docker local publish included
-- Auto-generate coverage report(s) (sbt-scoverage)
+- **Docker** local publish included
+- Auto-generate **coverage report(s)** (sbt-scoverage)
 
 ## Let`s get started
 1. See requirements!
