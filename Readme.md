@@ -7,7 +7,7 @@
 
 Author: Maximilian Bundscherer (https://bundscherer-online.de)
 
-Do **not** use akka remote without akka cluster in production-mode
+Do **not** use akka remote without akka cluster and do **not** use java serializer in production-mode
 
 ## Overview / Features
 - Server ``MainServer`` and example client ``ExampleClient`` included
