@@ -7,6 +7,8 @@
 
 Author: Maximilian Bundscherer (https://bundscherer-online.de)
 
+Do **not** use akka remote without akka cluster in production-mode
+
 ## Overview / Features
 - Server ``MainServer`` and example client ``ExampleClient`` included
 - **Docker** local publish included
