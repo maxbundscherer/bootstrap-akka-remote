@@ -1,8 +1,9 @@
 # Akka Remote Bootstrap
 
 [![shields.io](http://img.shields.io/badge/license-Apache2-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.txt)
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](#)
 
-**Bootstrap a akka remote backend service**
+**Bootstrap an akka remote backend service**
 
 Author: Maximilian Bundscherer (https://bundscherer-online.de)
 
